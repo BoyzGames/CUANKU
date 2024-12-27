@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open("https://whatsapp.com/channel/0029Vaw0QR85vKADfy85Lh1v")
+webbrowser.open("https://pastelink.net/wevgqktj")
